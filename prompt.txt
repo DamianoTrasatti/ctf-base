@@ -1,0 +1,14 @@
+devo organizzare una lezione per la scuola e faremo un capture the flag molto semplice. vogli fare 4 liveli
+parliamo di una pagina login e bisogna trovare le credenziali
+faremo livello 1: 
+pagina html con tasto logi quando premo funzione js che controlla username e password scritti in chiaro. se passa il controllo di sicurezza nomeutente=admin password=admin1234
+alora scrive benvenuto e immagine federico.jpg
+altrimenti scrive password errata 
+
+livello 2: pagina php con controlli messi sul php index.php sempre in chiaro e se risolvo ce scritto benvenuto e immagine di salva.jpg
+
+livello 3: pagina php con sessioni e file auth.php 
+
+livello 4: pagina php che prende le credenziali da file situati sul server della mia scuola con inidirizzo pubblico e i file stanno dentro una cartella i quali permessi sono modificati con htaccess. 
+
+il livello 3 e 4 non sono molto bravo non so bene come farlo devi aiutarmi intanto inizia a generare le pagine dei vari livelli
